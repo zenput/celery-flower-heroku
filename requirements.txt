@@ -1,1 +1,3 @@
-flower
+# sudo pip install -r requirements.txt
+flower==0.7.3
+redis==2.9.1
